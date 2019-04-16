@@ -1,0 +1,7 @@
+{
+    "name": "learning/demo",
+    "description": "a test composer demo",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
